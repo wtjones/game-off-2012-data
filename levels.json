@@ -1,0 +1,30 @@
+[
+  {
+    "fileName": "heron-fortress.json",
+    "caption": "Your only influence is by cloning. Units can only clone on the ground and must have room. You can click to change selection."
+  },
+  {
+    "fileName": "travelers-peak.json",
+    "caption":"Units can only fall one tile safely. Bring extras."
+  },
+  {
+    "fileName":"armour-bulwark.json",
+    "caption":"Spikes are fatal but only for the first victim."
+  },
+  {
+    "fileName":"sanctum-of-peace.json",
+    "caption":"Be fruitful."
+  },
+  {
+    "fileName":"bandits-barrow.json",
+    "caption":"Drawing the short straw."
+  },
+  {
+    "fileName":"hertsgate.json",
+    "caption":"Elevators: Single needs only one."
+  },
+  {
+    "fileName":"hudnolds-mound.json",
+    "caption":"Adjacent elevators each need a unit to operate."
+  }
+]
