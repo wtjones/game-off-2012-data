@@ -16,15 +16,15 @@
     "caption":"Be fruitful."
   },
   {
-    "fileName":"bandits-barrow.json",
-    "caption":"Drawing the short straw."
-  },
-  {
     "fileName":"hertsgate.json",
     "caption":"Elevators: Single needs only one."
   },
   {
     "fileName":"hudnolds-mound.json",
     "caption":"Adjacent elevators each need a unit to operate."
+  },
+  {
+    "fileName":"bandits-barrow.json",
+    "caption":"Drawing the short straw."
   }
 ]
