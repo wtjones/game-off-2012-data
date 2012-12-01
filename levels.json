@@ -20,6 +20,10 @@
     "caption":"Elevators: Single needs only one."
   },
   {
+    "fileName":"sailors-ridge.json",
+    "caption":"Tight quarters."
+  },
+  {
     "fileName":"hudnolds-mound.json",
     "caption":"Adjacent elevators each need a unit to operate."
   },
